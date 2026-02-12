@@ -218,8 +218,6 @@ ollama run qwen2.5:3b
 
 ## 🎯 Diretriz no Fluxo de Desenvolvimento
 
-A execução do `doc-ai` é obrigatória antes da abertura de Pull Request.
-
 Sempre após:
 
 * Concluir a implementação da feature
@@ -231,5 +229,3 @@ Execute:
 ```bash
 doc-ai g -c
 ```
-
-A documentação técnica é parte integrante da entrega da feature e deve estar atualizada no momento da submissão.
