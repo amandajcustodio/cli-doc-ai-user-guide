@@ -1,7 +1,6 @@
 # 🤖 cli.doc.ai – Guia de Uso
 
-**Versão atual:** `v1.0.0`
-*(Atualize conforme a release vigente.)*
+**Versão atual:** `v1.0.1`
 
 ---
 
